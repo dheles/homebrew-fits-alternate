@@ -5,8 +5,8 @@
 class FitsAT105 < Formula
   desc "File Information Tool Set - version 1.0.5"
   homepage "https://projects.iq.harvard.edu/fits"
-  url "http://projects.iq.harvard.edu/files/fits/files/fits-1.0.5.zip"
-  sha256 "11098021959a31dfda74f1016e044069d4da6fe0ddbabf79f0dd3dc3741267d4"
+  url "https://github.com/harvard-lts/fits/archive/1.0.5.tar.gz"
+  sha256 "9f9bca24a0344a2deb7c68c1c57bdafddc6bdbe4ad0746dc206126fa1c5dbc70"
 
   depends_on "ant" => :build
   depends_on :java => "1.7+"
