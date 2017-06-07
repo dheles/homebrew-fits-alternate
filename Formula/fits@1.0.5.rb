@@ -2,8 +2,8 @@
 #                http://www.rubydoc.info/github/Homebrew/brew/master/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 
-class FitsAT1005 < Formula
-  desc "File Information Tool Set - version 10.0.5"
+class FitsAT105 < Formula
+  desc "File Information Tool Set - version 1.0.5"
   homepage "https://projects.iq.harvard.edu/fits"
   url "http://projects.iq.harvard.edu/files/fits/files/fits-1.0.5.zip"
   sha256 "11098021959a31dfda74f1016e044069d4da6fe0ddbabf79f0dd3dc3741267d4"
